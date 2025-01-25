@@ -1,5 +1,5 @@
 
-## Our entire code is built based on nnSAM, and you can follow the nnSAM instructions exactly.
+## Our code is built based on nnSAM, and you can follow the nnSAM instructions exactly.
 
 
 Install SAM-Unet depending on your use case:
